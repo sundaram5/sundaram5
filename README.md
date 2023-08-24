@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm sundaram yadav</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="C:\Users\pramo\OneDrive\Pictures\Saved Pictures\gif3.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **html,css,Tailwind,javascript,MongoDb,Express,NodeJs,React,Python,Php,Sql**
+- 💬 Ask me about **html,css,,Bootstrao,Tailwind,javascript,ReactJs,NodeJs,ExpressJs,MongoDb,Postman,Python,Php,Sql,MySql**
 
 - 📫 How to reach me **sundaramyadav231314@gmail.com**
 
