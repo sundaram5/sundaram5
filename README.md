@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sundaram yadav</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\pramo\OneDrive\Pictures\Saved Pictures\gif3.gif">
+<img align="right" alt="Coding" width="400" src="C:/Users/pramo/OneDrive/Pictures/Saved Pictures/gif3.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
 
