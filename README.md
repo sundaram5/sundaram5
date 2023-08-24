@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm sundaram yadav</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Vz9yWkgv3Rn8i3vJQg48u&ust=1692971082217000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDK7_G29YADFQAAAAAdAAAAABAZ">
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **html,css,,Bootstrao,Tailwind,javascript,ReactJs,NodeJs,ExpressJs,MongoDb,Postman,Python,Php,Sql,MySql**
